@@ -1,1 +1,2 @@
 # SENA_IOT_DESING_COURSE
+Aquí se encuentran las evidencias a lo largo del curso DISEÑO DE SOLUCIONES DE INTERNET DE LAS COSAS (3525166), en cada carpeta estará un archivo ´readme.md´ con la información asociada
